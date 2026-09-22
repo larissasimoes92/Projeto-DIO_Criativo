@@ -82,11 +82,11 @@ Esses recursos permitem que o usuário explore as informações de maneira mais 
 
 ### Página 1
 
-![Página 1 do relatório](./página%201%20Projeto.png)
+<img src="./p%C3%A1gina%201%20Projeto.png" alt="Página 1 do relatório">
 
 ### Página 2
 
-![Página 2 do relatório](./página%202%20projeto.png)
+<img src="./p%C3%A1gina%202%20projeto.png" alt="Página 2 do relatório">
 
 ---
 
