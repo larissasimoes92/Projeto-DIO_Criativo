@@ -95,7 +95,7 @@ O relatório foi desenvolvido no **Power BI Desktop** e publicado no **Power BI 
 
 🔗 **Link do relatório no Power BI Service:**
 
-> Adicione aqui o link do seu relatório publicado.
+> [Adicione aqui o link do seu relatório publicado](https://app.powerbi.com/groups/me/reports/fa499b98-047c-4afc-9134-e156ffbc1be0?ctid=6f9e3b1e-1809-444a-81d3-82d40a928812&pbi_source=linkShare&bookmarkGuid=4010af4a-518a-45aa-a1ce-6893c5e00e35).
 
 ---
 
@@ -120,11 +120,6 @@ Durante o desenvolvimento deste projeto, foram explorados conceitos importantes 
 
 ---
 
-## 👩‍💻 Autora
-
-**Larissa Simões**
-
-Projeto desenvolvido para fins de aprendizado e prática em **Power BI e análise de dados**.
 
 🔗 [GitHub](https://github.com/)
 
