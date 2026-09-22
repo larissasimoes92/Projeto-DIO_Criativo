@@ -2,23 +2,24 @@
 
 ## 📌 Sobre o projeto
 
-Este projeto foi desenvolvido como parte de um desafio da **DIO (Digital Innovation One)**, com o objetivo de criar um relatório interativo no **Power BI**, explorando recursos de visualização de dados, navegação e interatividade.
+Este projeto foi desenvolvido como parte de um desafio da **DIO (Digital Innovation One)**, com o objetivo de criar um relatório interativo utilizando o **Power BI**.
 
-O projeto apresenta um relatório estruturado em duas páginas, utilizando diferentes elementos visuais, segmentadores e botões de navegação para proporcionar uma experiência mais dinâmica e intuitiva ao usuário.
+O projeto explora recursos de visualização de dados, navegação e interatividade, utilizando gráficos, indicadores, segmentadores e botões para proporcionar uma experiência mais dinâmica ao usuário.
 
 ---
 
-## 🎯 Objetivos
+## 🎯 Objetivos do projeto
 
 O projeto teve como principais objetivos:
 
 - Criar um relatório com estrutura visual organizada;
 - Desenvolver páginas com layout e identidade visual;
 - Utilizar diferentes gráficos e indicadores;
-- Criar botões de navegação entre as páginas;
-- Utilizar segmentadores de dados para interação com os visuais;
-- Associar imagens aos botões para melhorar a experiência de navegação;
-- Permitir a exploração de diferentes visuais sobre um mesmo assunto;
+- Criar botões de navegação;
+- Utilizar segmentadores de dados;
+- Associar imagens aos botões;
+- Permitir a seleção de diferentes visuais sobre um mesmo assunto;
+- Criar uma segunda página para complementar a análise;
 - Publicar o relatório no Power BI Service.
 
 ---
@@ -28,12 +29,12 @@ O projeto teve como principais objetivos:
 - **Power BI Desktop**
 - **Power BI Service**
 - Gráficos e visuais interativos
-- Indicadores (Cards/KPIs)
+- Indicadores
 - Segmentadores de dados
 - Botões de navegação
 - Imagens associadas aos botões
-- Bookmarks/Indicadores
-- Formatação e elementos visuais para construção do layout
+- Indicadores/Bookmarks
+- Elementos visuais para construção do layout
 
 ---
 
@@ -41,39 +42,39 @@ O projeto teve como principais objetivos:
 
 ### 🏠 Página 1 — Visão Geral
 
-A primeira página foi construída seguindo a estrutura proposta no desafio, contemplando:
+A primeira página foi desenvolvida utilizando os elementos propostos no desafio, incluindo:
 
 - Objetos para definição do layout;
 - Gráficos e visuais;
 - Indicadores;
 - Segmentadores de dados;
 - Botões de navegação;
-- Elementos visuais associados aos botões;
-- Interatividade entre os componentes do relatório.
+- Imagens associadas aos botões;
+- Recursos de interatividade.
 
-Os botões permitem navegar entre diferentes visualizações e explorar as informações de maneira mais dinâmica.
+Os botões e indicadores permitem navegar e alternar entre diferentes visualizações sobre um mesmo assunto.
 
 ### 📊 Página 2 — Análise
 
-A segunda página complementa a primeira, permitindo uma análise mais detalhada dos dados.
+A segunda página foi criada como complemento da primeira, permitindo uma análise diferente dos dados apresentados no relatório.
 
-Foram utilizados recursos de interação para que o usuário possa selecionar diferentes informações e visualizar os resultados de acordo com os filtros aplicados.
+Foram utilizados recursos de interação e filtros para possibilitar a exploração das informações de acordo com a seleção realizada pelo usuário.
 
 ---
 
 ## 🧭 Navegação e interatividade
 
-Um dos principais objetivos do projeto foi proporcionar uma experiência de navegação simples e intuitiva.
+O relatório foi desenvolvido buscando proporcionar uma experiência de navegação simples e intuitiva.
 
 Foram utilizados:
 
 - **Botões de navegação** entre as páginas;
 - **Segmentadores de dados** para aplicação de filtros;
-- **Indicadores** para destacar informações relevantes;
+- **Indicadores** para destacar informações;
 - **Botões com imagens** associados às ações de navegação;
-- Diferentes visuais para apresentar informações sobre um mesmo assunto.
+- Diferentes visuais para análise de um mesmo assunto.
 
-Dessa forma, o usuário consegue explorar o relatório de acordo com a informação que deseja analisar.
+Esses recursos permitem que o usuário explore as informações de maneira mais dinâmica e interativa.
 
 ---
 
@@ -81,34 +82,35 @@ Dessa forma, o usuário consegue explorar o relatório de acordo com a informaç
 
 ### Página 1
 
-![Página 1](página%201%20Projeto.png)
+![Página 1 do relatório](./página%201%20Projeto.png)
 
 ### Página 2
 
-![Página 2](página%202%20projeto.png)
+![Página 2 do relatório](./página%202%20projeto.png)
 
 ---
 
 ## 🚀 Publicação
 
-Após a construção do relatório no Power BI Desktop, o projeto foi publicado no **Power BI Service**, permitindo sua visualização e compartilhamento.
+O relatório foi desenvolvido no **Power BI Desktop** e publicado no **Power BI Service**.
 
-🔗 **Link do relatório no Power BI Service:**  
-*Adicione aqui o link do seu relatório publicado.*
+🔗 **Link do relatório no Power BI Service:**
+
+> Adicione aqui o link do seu relatório publicado.
 
 ---
 
 ## 📁 Arquivos do projeto
 
-Neste repositório estão disponíveis os materiais utilizados para apresentação do projeto, incluindo as imagens das páginas desenvolvidas.
+O repositório contém os arquivos utilizados para apresentação do projeto, incluindo as imagens das páginas desenvolvidas no Power BI.
 
 ---
 
 ## 💡 Aprendizados
 
-Durante o desenvolvimento deste projeto, foram explorados conceitos importantes de **visualização de dados e construção de dashboards no Power BI**, principalmente:
+Durante o desenvolvimento deste projeto, foram explorados conceitos importantes de **visualização de dados e construção de dashboards no Power BI**, como:
 
-- Organização de layouts;
+- Organização e definição de layouts;
 - Criação e configuração de gráficos;
 - Utilização de filtros e segmentadores;
 - Criação de botões interativos;
@@ -119,5 +121,14 @@ Durante o desenvolvimento deste projeto, foram explorados conceitos importantes 
 
 ---
 
+## 👩‍💻 Autora
 
-Criação de Relatórios com visões e botões
+**Larissa Simões**
+
+Projeto desenvolvido para fins de aprendizado e prática em **Power BI e análise de dados**.
+
+🔗 [GitHub](https://github.com/)
+
+---
+
+⭐ Projeto desenvolvido como parte dos desafios da **DIO**.
